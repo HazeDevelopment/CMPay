@@ -1,0 +1,16 @@
+{
+    "name": "KingsDevelopment/CMPay",
+    "description": "A package to use the cm payments api.",
+    "license": "MIT",
+    "homepage":     "http://kings-dev.io/",
+    "version":      "1.0.8",
+    "type":         "library",
+    "authors": [
+        {
+            "name": "Jurien Hamaker",
+            "email": "jurien@kings-dev.io"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
