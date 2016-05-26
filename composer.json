@@ -11,6 +11,11 @@
             "email": "jurien@kings-dev.io"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "KingsDevelopment\\": "src/"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }

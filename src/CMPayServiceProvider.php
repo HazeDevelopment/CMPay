@@ -1,6 +1,6 @@
 <?php
 
-namespace KingsDevelopment\CMPay;
+namespace KingsDevelopment;
 
 use Illuminate\Support\ServiceProvider;
 
